@@ -1,0 +1,101 @@
+ID,Name,Type,City,AcceptedBacs,Threshold,KeySubjects,SelectionMode,Duration,Debouches,Status,AnnualFees
+1,ENSA Marrakech,ecole_ingenieur,marrakech,sm;spc,14.5,maths;physique,tawjihi,5,genie_logiciel;cybersecurite;reseaux;systemes_embarques;genie_industriel,public,0
+2,ENSA Agadir,ecole_ingenieur,agadir,sm;spc,14.2,maths;physique,tawjihi,5,genie_logiciel;intelligence_artificielle;genie_civil;energie_renouvelable,public,0
+3,ENSA Tanger,ecole_ingenieur,tanger,sm;spc,14.3,maths;physique,tawjihi,5,telecom;genie_industriel;logistique;genie_logiciel,public,0
+4,ENSA Oujda,ecole_ingenieur,oujda,sm;spc,14.0,maths;physique,tawjihi,5,genie_informatique;electronique;genie_civil,public,0
+5,ENSA Kenitra,ecole_ingenieur,kenitra,sm;spc,14.4,maths;physique,tawjihi,5,genie_electrique;genie_industriel;reseaux;genie_logiciel,public,0
+6,ENSA Fes,ecole_ingenieur,fes,sm;spc,14.1,maths;physique,tawjihi,5,genie_informatique;telecom;systemes_embarques;mecanique,public,0
+7,ENSA El Jadida,ecole_ingenieur,el_jadida,sm;spc,13.9,maths;physique,tawjihi,5,genie_logiciel;systemes_information;genie_civil;energetique,public,0
+8,ENSA Khouribga,ecole_ingenieur,khouribga,sm;spc,13.8,maths;physique,tawjihi,5,genie_informatique;reseaux;genie_procedes,public,0
+9,ENSA Tetouan,ecole_ingenieur,tetouan,sm;spc,14.2,maths;physique,tawjihi,5,genie_civil;genie_logiciel;supply_chain,public,0
+10,ENSA Berrechid,ecole_ingenieur,berrechid,sm;spc,13.7,maths;physique,tawjihi,5,genie_aeronautique;genie_logiciel;systemes_intelligents,public,0
+11,ENSA Safi,ecole_ingenieur,safi,sm;spc,13.8,maths;physique,tawjihi,5,genie_logiciel;telecom;chimie_industrielle,public,0
+12,ENSA Al Hoceima,ecole_ingenieur,al_hoceima,sm;spc,13.6,maths;physique,tawjihi,5,genie_civil;environnement;genie_informatique,public,0
+13,ENCG Casablanca,commerce,casablanca,eco;tgc;sm;spc,15.0,francais;maths,tawjihi,5,finance;audit;marketing;commerce_international;ressources_humaines,public,0
+14,ENCG Settat,commerce,settat,eco;tgc;sm;spc,14.8,francais;maths,tawjihi,5,finance;audit;comptabilite;marketing;logistique,public,0
+15,ENCG Tanger,commerce,tanger,eco;tgc;sm;spc,14.5,francais;maths,tawjihi,5,commerce_international;marketing;gestion_entreprise;logistique,public,0
+16,ENCG Agadir,commerce,agadir,eco;tgc;sm;spc,14.3,francais;maths,tawjihi,5,marketing;finance;gestion_tourisme;audit,public,0
+17,ENCG Oujda,commerce,oujda,eco;tgc;sm;spc,13.8,francais;maths,tawjihi,5,finance;comptabilite;marketing;management,public,0
+18,ENCG Fes,commerce,fes,eco;tgc;sm;spc,14.4,francais;maths,tawjihi,5,audit;finance;marketing;commerce_international,public,0
+19,ENCG Marrakech,commerce,marrakech,eco;tgc;sm;spc,14.6,francais;maths,tawjihi,5,finance;marketing;gestion_entreprise;ressources_humaines,public,0
+20,ENCG Kenitra,commerce,kenitra,eco;tgc;sm;spc,14.3,francais;maths,tawjihi,5,gestion_achat;logistique;marketing;finance,public,0
+21,ENCG El Jadida,commerce,el_jadida,eco;tgc;sm;spc,14.1,francais;maths,tawjihi,5,audit;finance;marketing;banque_assurance,public,0
+22,ENCG Dakhla,commerce,dakhla,eco;tgc;sm;spc,13.5,francais;maths,tawjihi,5,commerce_international;logistique;finance;developpement_durable,public,0
+23,FST Settat,science_technique,settat,spc;svt;sm,12.0,maths;physique;chimie,tawjihi,3,biotechnologie;chimie_appliquee;genie_electrique;informatique,public,0
+24,FST Mohammedia,science_technique,mohammedia,spc;svt;sm,13.0,maths;physique;chimie,tawjihi,3,genie_logiciel;chimie_analytique;reseaux;genie_mecanique,public,0
+25,FST Fes,science_technique,fes,spc;svt;sm,11.5,maths;physique;chimie,tawjihi,3,agroalimentaire;genie_civil;informatique;sciences_materiaux,public,0
+26,FST Marrakech,science_technique,marrakech,spc;svt;sm,12.5,maths;physique;chimie,tawjihi,3,systemes_embarques;genie_civil;biologie_medicale;environnement,public,0
+27,FST Tanger,science_technique,tanger,spc;svt;sm,12.2,maths;physique;chimie,tawjihi,3,automatisme;energie_renouvelable;genie_logiciel;statistiques,public,0
+28,FST Beni Mellal,science_technique,beni_mellal,spc;svt;sm,11.0,maths;physique;chimie,tawjihi,3,agronomie;chimie;biologie;geosciences,public,0
+29,FST Errachidia,science_technique,errachidia,spc;svt;sm,11.0,maths;physique;chimie,tawjihi,3,mathematiques_appliquees;informatique;eau_environnement,public,0
+30,FMP Casablanca,medecine,casablanca,sm;spc;svt,16.5,svt;chimie;physique,cursussup,7,medecine_generale;chirurgie;specialite_medicale;sante_publique,public,0
+31,FMP Rabat,medecine,rabat,sm;spc;svt,16.2,svt;chimie;physique,cursussup,7,medecine_generale;recherche_medicale;chirurgie;pediatrie,public,0
+32,FMP Marrakech,medecine,marrakech,sm;spc;svt,16.0,svt;chimie;physique,cursussup,7,medecine_generale;urgences;chirurgie;sante_communautaire,public,0
+33,FMP Fes,medecine,fes,sm;spc;svt,15.8,svt;chimie;physique,cursussup,7,medecine_generale;cardiologie;chirurgie;gynecologie,public,0
+34,FMP Oujda,medecine,oujda,sm;spc;svt,15.5,svt;chimie;physique,cursussup,7,medecine_generale;radiologie;oncologie;recherche_medicale,public,0
+35,FMD Rabat,dentaire,rabat,sm;spc;svt,16.0,svt;chimie;physique,cursussup,6,chirurgie_dentaire;orthodontie;implantologie;soins_bucco_dentaires,public,0
+36,FMD Casablanca,dentaire,casablanca,sm;spc;svt,16.3,svt;chimie;physique,cursussup,6,chirurgie_dentaire;parodontologie;prothese_dentaire,public,0
+37,ENSAM Meknes,ecole_ingenieur,meknes,sm;spc;ste;stm,15.5,maths;physique,tawjihi,5,genie_mecanique;genie_industriel;energie_electromecanique;maintenance,public,0
+38,ENSAM Casablanca,ecole_ingenieur,casablanca,sm;spc;ste;stm,15.8,maths;physique,tawjihi,5,genie_industriel;robotique;intelligence_artificielle;systemes_mecaniques,public,0
+39,ENSAM Rabat,ecole_ingenieur,rabat,sm;spc;ste;stm,15.6,maths;physique,tawjihi,5,materiaux_avances;genie_electrique;production_automatisee,public,0
+40,CPGE Mohamed V (MPSI),prepa,casablanca,sm,16.0,maths;physique,dossier,2,grandes_ecoles_ingenieur;recherche;enseignement_superieur,public,0
+41,CPGE Moulay Idriss (PCSI),prepa,fes,sm;spc,15.5,physique;maths,dossier,2,grandes_ecoles_ingenieur;recherche;aeronautique;energie,public,0
+42,CPGE Moulay Youssef (TSI),prepa,rabat,ste;stm,14.5,physique;technologie,dossier,2,grandes_ecoles_ingenieur;genie_electrique;genie_mecanique,public,0
+43,CPGE Reda Slaoui (TSI),prepa,agadir,ste;stm,14.0,physique;technologie,dossier,2,grandes_ecoles_ingenieur;robotique;automatismes_industriels,public,0
+44,CPGE Omar Ibn Al Khattab (ECT),prepa,meknes,eco;tgc,14.5,maths;economie,dossier,2,grandes_ecoles_commerce;iscae;encg;finance_internationale,public,0
+45,CPGE Al Khansaa (ECT),prepa,casablanca,eco;tgc,15.0,maths;economie,dossier,2,grandes_ecoles_commerce;iscae;audit_financier;gestion_strategique,public,0
+46,IAV Hassan II,agronomie,rabat,sm;spc;svt,14.5,svt;chimie,concours,6,genie_rural;agronomie;medecine_veterinaire;agroalimentaire;environnement,public,0
+47,ISIC Rabat,journalisme,rabat,lettres;humaines;eco;sm;spc;toutes,14.0,arabe;francais;anglais,concours,3,journalisme;communication;relations_publiques;medias_numeriques,public,0
+48,ISCAE Casablanca,commerce,casablanca,eco;tgc;sm;spc,16.0,maths;francais;anglais,concours,3,finance_marche;expertise_comptable;conseil_strategique;marketing_luxe,public,0
+49,AIAC Nouaceur,aeronautique,casablanca,sm;spc,16.0,maths;physique,concours,5,genie_aeronautique;controle_aerien;telecommunication_aviation,public,0
+50,UM6P Benguerir,polytechnique,benguerir,sm;spc,15.5,maths;physique,concours,5,intelligence_artificielle;green_tech;chimie_minerale;science_donnees,prive,95000
+51,UM6P SAPD Benguerir,architecture,benguerir,sm;spc,15.0,dessin;maths,concours,6,architecture_durable;urbanisme;design_environnemental,prive,105000
+52,UIR Rabat,informatique,rabat,sm;spc;ste;stm,13.0,maths;anglais,dossier,5,genie_logiciel;cybersecurite;big_data;internet_des_objets,prive,72000
+53,ENSAD Casablanca,design,casablanca,arts_appliques;spc;sm;lettres;toutes,12.5,dessin;creativite,tawjihi,5,design_graphique;design_produit;animation_3d;conception_visuelle,public,0
+54,ENIAD Rabat,intelligence_artificielle,rabat,sm;spc,15.0,maths;informatique,tawjihi,5,intelligence_artificielle;data_engineering;cloud_computing;cybersecurite,public,0
+55,ISPITS Casablanca,paramedical,casablanca,spc;svt,13.5,svt;langues,concours,3,soins_infirmiers;kinesitherapie;radiologie;anesthesie_reanimation,public,0
+56,ISPITS Rabat,paramedical,rabat,spc;svt,13.8,svt;langues,concours,3,soins_infirmiers;laboratoire_analyse;orthophonie;sage_femme,public,0
+57,ISPITS Marrakech,paramedical,marrakech,spc;svt,13.2,svt;langues,concours,3,soins_infirmiers;kinesitherapie;urgences_soins_intensifs,public,0
+58,ISPITS Fes,paramedical,fes,spc;svt,13.0,svt;langues,concours,3,soins_infirmiers;sante_famille;laboratoire_medical,public,0
+59,ISPITS Agadir,paramedical,agadir,spc;svt,12.8,svt;langues,concours,3,soins_infirmiers;kinesitherapie;sante_environnement,public,0
+60,EST Casablanca (Info),technique,casablanca,sm;spc;svt;ste;stm,13.5,maths;informatique,tawjihi,2,developpement_web;administration_reseaux;base_de_donnees,public,0
+61,EST Sale (Civil),technique,sale,sm;spc;ste,12.5,physique;maths,tawjihi,2,genie_civil;conducteur_travaux;topographie;batiment,public,0
+62,EST Fes,technique,fes,sm;spc;svt;eco;tgc,12.0,maths;physique,tawjihi,2,genie_electrique;gestion_entreprises;maintenance_industrielle,public,0
+63,EST Agadir,technique,agadir,sm;spc;svt;ste;stm,11.5,maths;physique,tawjihi,2,techniques_instrumentation;agroalimentaire;informatique_gestion,public,0
+64,EST Oujda,technique,oujda,sm;spc;svt;ste;stm,11.5,maths;physique,tawjihi,2,genie_industriel;energies_renouvelables;informatique,public,0
+65,EST Safi,technique,safi,sm;spc;svt;ste;stm,11.2,maths;physique,tawjihi,2,maintenance_industrielle;gestion_comptable;technologies_chimiques,public,0
+66,ESITH Casablanca,textile,casablanca,sm;spc;ste;stm;eco,12.0,maths;physique,concours,5,genie_textile;logistique_internationale;gestion_production,public,25000
+67,ENA Rabat,architecture,rabat,sm;spc;svt,15.5,dessin;maths,concours,6,architecture;urbanisme;restauration_patrimoine;paysagisme,public,0
+68,ENA Marrakech,architecture,marrakech,sm;spc;svt,15.2,dessin;maths,concours,6,architecture;habitat_durable;design_interieur;urbanisme,public,0
+69,ENA Fes,architecture,fes,sm;spc;svt,15.0,dessin;maths,concours,6,architecture;patrimoine_architectural;amenagement_territoire,public,0
+70,ARM Meknes,militaire,meknes,sm;spc;svt,13.0,physique;sport,concours,4,officier_armee_terre;commandement_militaire;transmission_armee,public,0
+71,ERN Casablanca,marine,casablanca,sm;spc,14.0,maths;physique,concours,4,officier_marine_royale;navigation_maritime;genie_maritime,public,0
+72,INPT Rabat,telecom,rabat,sm;spc,16.0,maths;physique,concours,5,telecom;cybersecurite;reseaux_mobiles;intelligence_artificielle,public,0
+73,INSEA Rabat,statistique,rabat,sm;spc,15.5,maths;economie,concours,5,actuariat;big_data;statistique_decisionnelle;finance_quantitative,public,0
+74,ESI Rabat,science_donnees,rabat,sm;spc,14.5,maths;francais,concours,3,data_science;ingenierie_connaissances;gestion_systemes_information,public,0
+75,ISITT Tanger,tourisme,tanger,lettres;humaines;eco;tgc;sm;spc;toutes,12.5,francais;anglais,concours,3,management_touristique;direction_hoteliere;evenementiel,public,0
+76,INBA Tetouan,arts_plastiques,tetouan,arts_appliques;lettres;humaines;toutes,12.0,dessin;creativite,concours,4,arts_plastiques;peinture;sculpture;design_artistique,public,0
+77,ESEF Agadir,education,agadir,lettres;humaines;sm;spc;svt;eco;toutes,12.0,pedagogie;langues,dossier,3,enseignement_primaire;enseignement_secondaire;formation_pedagogique,public,0
+78,ESEF Kenitra,education,kenitra,lettres;humaines;sm;spc;svt;toutes,12.2,pedagogie;langues,dossier,3,enseignement_langues;enseignement_lettres;conseil_pedagogique,public,0
+79,ENS Marrakech,enseignement,marrakech,sm;spc;svt,13.0,maths;physique;svt,concours,3,enseignement_sciences;professeur_maths;professeur_physique,public,0
+80,ENS Rabat,enseignement,rabat,lettres;humaines;sm;spc;toutes,13.2,francais;arabe;philosophie,concours,3,enseignement_francais;enseignement_philosophie;professeur_arabe,public,0
+81,EMSI Casablanca,ingenierie,casablanca,sm;spc;ste;stm,12.0,maths;physique,dossier,5,genie_logiciel;reseaux_telecoms;automatique_industrielle;genie_civil,prive,38000
+82,Al Akhawayn Ifrane,pluridisciplinaire,ifrane,sm;spc;eco;tgc;lettres;toutes,13.5,anglais;maths,dossier,4,computer_science;international_relations;business_administration,prive,92000
+83,FSJES Agdal (Droit Francais),droit,rabat,lettres;humaines;eco;sm;toutes,10.0,francais;arabe,ouvert,3,avocat;juriste_entreprise;diplomatie;magistrature,public,0
+84,FSJES Casablanca (Eco Gestion),economie,casablanca,eco;tgc;sm;spc,10.0,maths;economie,ouvert,3,comptabilite;analyse_financiere;gestion_pme;banque,public,0
+85,FSJES Marrakech (Droit Arabe),droit,marrakech,lettres;humaines;toutes,10.0,arabe;histoire,ouvert,3,magistrature;notariat;contentieux;administration_publique,public,0
+86,FLSH Rabat (Anglais),lettres_sciences_humaines,rabat,lettres;humaines;toutes,10.0,anglais;francais,ouvert,3,traduction;redaction;relations_internationales;enseignement_anglais,public,0
+87,FLSH Casablanca (Francais),lettres_sciences_humaines,casablanca,lettres;humaines;toutes,10.0,francais;litterature,ouvert,3,communication;edition;medias;enseignement_francais,public,0
+88,FLSH Fes (Sociologie Histoire),lettres_sciences_humaines,fes,lettres;humaines;toutes,10.0,histoire;arabe,ouvert,3,sociologie;recherche_sociale;patrimoine_culturel;ong,public,0
+89,FS Semlalia (SMI Info),universite_sciences,marrakech,sm;spc,10.0,maths;physique,ouvert,3,developpement_logiciel;algorithmique;administrateur_systemes;recherche_ia,public,0
+90,FS Rabat Agdal (SMA Maths),universite_sciences,rabat,sm,10.0,maths;analyse,ouvert,3,mathematiques_fondamentales;modelisation_mathematique;enseignement_maths,public,0
+91,FS Ain Chock (SVI Biologie),universite_sciences,casablanca,svt;spc,10.0,svt;chimie,ouvert,3,biologie_appliquee;laboratoire_medical;environnement;recherche_biologique,public,0
+92,ISTA Sidi Maarouf Casablanca,formation_professionnelle,casablanca,sm;spc;svt;ste;stm;eco;tgc;toutes,11.5,informatique;logique,dossier,2,developpement_digital;fullstack;ia_appliquee;cloud,public,800
+93,ISTA Hay Riad Rabat,formation_professionnelle,rabat,sm;spc;svt;ste;stm;eco;tgc;toutes,11.0,informatique;anglais,dossier,2,infrastructure_digitale;cybersecurite;administration_reseaux,public,800
+94,ISTA Marrakech Daoudiate,formation_professionnelle,marrakech,eco;tgc;lettres;humaines;sm;spc;toutes,10.5,francais;comptabilite,dossier,2,gestion_entreprises;comptabilite_finance;ressources_humaines,public,800
+95,ISTA Tanger Ibn Battouta,formation_professionnelle,tanger,ste;stm;spc;sm,11.0,technologie;physique,dossier,2,maintenance_industrielle;electromecanique;automatisation,public,800
+96,ISTA Agadir Taddart,formation_professionnelle,agadir,eco;tgc;sm;spc;svt;toutes,10.5,francais;logistique,dossier,2,logistique_transport;gestion_stocks;commerce_distribution,public,800
+97,BTS DSI Lycee Mohammedia,technique,mohammedia,sm;spc;ste;stm;eco,12.0,maths;informatique,dossier,2,developpement_applications;systemes_information;support_it,public,800
+98,BTS CG Lycee Rabat,technique,rabat,eco;tgc,12.5,comptabilite;maths,dossier,2,comptabilite_gestion;fiscalite;gestion_tresorerie,public,800
+99,BTS Batiment Lycee Khawarizmi Casa,technique,casablanca,ste;stm;spc;sm,11.8,physique;dessin,dossier,2,conducteur_chantier;dessin_batiment;metreur_verificateur,public,800
+100,BTS Electrotechnique Ibn Al Haytham Marrakech,technique,marrakech,ste;stm;spc;sm,11.5,physique;technologie,dossier,2,technicien_electrique;maintenance_reseaux;automatisme,public,800
